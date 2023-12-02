@@ -1,7 +1,7 @@
 import React from 'react';
 import {View, SafeAreaView, Text, ScrollView} from 'react-native';
 
-export const HomeScreen = () => {
+export const Home = () => {
   return (
     <SafeAreaView>
       <ScrollView>
